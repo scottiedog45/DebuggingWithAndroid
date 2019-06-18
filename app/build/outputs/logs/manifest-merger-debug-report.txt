@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/379d5bf25a59b20ed9001086f3f38c75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/9e6af3f085f2437e4a58cfdc4e809bd6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/984b91923d3742dc9f3da3da74a3250f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/18f4483d4b938ae0baaf60bf39ea7d39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/ece358d4eeab7c0ff13f9fa0729a393e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/77a651b407477fd34ca9cdfc2b970166/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/6d500208ffa5a3f63bb93ebc2948202e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/a2c00801569f99a83fa4cbd6b89bbd3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/0adfed5e8e6a98ff56085a9b520de6e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/5217179b6b16ed1b83d11203ffd68401/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/1bb1ce0c7e7890e345ac0e90f7341585/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/b7fcf5fa921d9b4565bb2b11b14e73de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/deb435c79c0a90b41d85028d3c67856d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/db64249fa39bbc83c3e2c715947de66c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/26077e05761ca2bb0ea0260660e77a14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/b53eb28b52ba4a0c3968614d97d6cc85/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/c7cc2253995639c2369c1f911d4ea47b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/8d6893859b000ad78621ad167b77ff59/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/c76388e3f4893dff56e3e9e441088bd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/1497074bf3d699a15d6943d4044f21b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/52bf144efcb9c3cf3074f2c1081e058b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/41769e09f0cbd775f1df52303e58bb70/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/fd71a192426ef1f6455e805260b75238/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/ab3a247c809aaa5a3f515f69f786f47e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/f414199e9c2b8764d8d7f58644dbba0a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/73ac7b792371f556a9631bd73c991fd5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/dde2386515d0015534f884d6eef0471b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:3:11-51
+		INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/9e6af3f085f2437e4a58cfdc4e809bd6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/9e6af3f085f2437e4a58cfdc4e809bd6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/b53eb28b52ba4a0c3968614d97d6cc85/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/b53eb28b52ba4a0c3968614d97d6cc85/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/c7cc2253995639c2369c1f911d4ea47b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/c7cc2253995639c2369c1f911d4ea47b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/b53eb28b52ba4a0c3968614d97d6cc85/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.scott.debuggingwithandroid.MainActivity
+ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/379d5bf25a59b20ed9001086f3f38c75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/379d5bf25a59b20ed9001086f3f38c75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/9e6af3f085f2437e4a58cfdc4e809bd6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/9e6af3f085f2437e4a58cfdc4e809bd6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/984b91923d3742dc9f3da3da74a3250f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/984b91923d3742dc9f3da3da74a3250f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/18f4483d4b938ae0baaf60bf39ea7d39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/18f4483d4b938ae0baaf60bf39ea7d39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/ece358d4eeab7c0ff13f9fa0729a393e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/ece358d4eeab7c0ff13f9fa0729a393e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/77a651b407477fd34ca9cdfc2b970166/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/77a651b407477fd34ca9cdfc2b970166/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/6d500208ffa5a3f63bb93ebc2948202e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/6d500208ffa5a3f63bb93ebc2948202e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/a2c00801569f99a83fa4cbd6b89bbd3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/a2c00801569f99a83fa4cbd6b89bbd3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/0adfed5e8e6a98ff56085a9b520de6e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/0adfed5e8e6a98ff56085a9b520de6e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/5217179b6b16ed1b83d11203ffd68401/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/5217179b6b16ed1b83d11203ffd68401/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/1bb1ce0c7e7890e345ac0e90f7341585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/1bb1ce0c7e7890e345ac0e90f7341585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/b7fcf5fa921d9b4565bb2b11b14e73de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/b7fcf5fa921d9b4565bb2b11b14e73de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/deb435c79c0a90b41d85028d3c67856d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/deb435c79c0a90b41d85028d3c67856d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/db64249fa39bbc83c3e2c715947de66c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/db64249fa39bbc83c3e2c715947de66c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/26077e05761ca2bb0ea0260660e77a14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/26077e05761ca2bb0ea0260660e77a14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/b53eb28b52ba4a0c3968614d97d6cc85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/b53eb28b52ba4a0c3968614d97d6cc85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/c7cc2253995639c2369c1f911d4ea47b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/c7cc2253995639c2369c1f911d4ea47b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/8d6893859b000ad78621ad167b77ff59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/8d6893859b000ad78621ad167b77ff59/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/c76388e3f4893dff56e3e9e441088bd7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/c76388e3f4893dff56e3e9e441088bd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/1497074bf3d699a15d6943d4044f21b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/1497074bf3d699a15d6943d4044f21b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/52bf144efcb9c3cf3074f2c1081e058b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/52bf144efcb9c3cf3074f2c1081e058b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/41769e09f0cbd775f1df52303e58bb70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/41769e09f0cbd775f1df52303e58bb70/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/fd71a192426ef1f6455e805260b75238/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/fd71a192426ef1f6455e805260b75238/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/ab3a247c809aaa5a3f515f69f786f47e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/ab3a247c809aaa5a3f515f69f786f47e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/f414199e9c2b8764d8d7f58644dbba0a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/f414199e9c2b8764d8d7f58644dbba0a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/73ac7b792371f556a9631bd73c991fd5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/73ac7b792371f556a9631bd73c991fd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/dde2386515d0015534f884d6eef0471b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/scottotoole/.gradle/caches/transforms-2/files-2.1/dde2386515d0015534f884d6eef0471b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scottotoole/Desktop/DebuggingWithAndroid/app/src/main/AndroidManifest.xml
