@@ -20,5 +20,6 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
         assertEquals("com.scott.debuggingwithandroid", appContext.packageName)
+        assertEquals(5, 4)
     }
 }
